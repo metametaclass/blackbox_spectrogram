@@ -23,12 +23,12 @@ blackbox_decode btfl_001.bbl
 git clone https://github.com/metametaclass/blackbox_spectrogram
 ```
 
-* Copy decoded file btfl_001.01.csv to blackbox_notebook\data
+* Copy decoded file btfl_001.01.csv to blackbox_spectrogram\data
 
 * Run notebook 
 
 ```
-cd blackbox_notebook
+cd blackbox_spectrogram
 jupyter notebook
 ```
 
