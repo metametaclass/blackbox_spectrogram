@@ -20,7 +20,7 @@ blackbox_decode btfl_001.bbl
 * Clone repo:
 
 ```
-git clone https://github.com/metametaclass/blackbox_notebook
+git clone https://github.com/metametaclass/blackbox_spectrogram
 ```
 
 * Copy decoded file btfl_001.01.csv to blackbox_notebook\data
